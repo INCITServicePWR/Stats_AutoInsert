@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoInsert_Dev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6872365e2bc7899ed7f0ec571c2cd6d8cf670f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fd57d6a5a1a82992c35981dcc7baecf124e0f9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoInsert_Dev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoInsert_Dev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
